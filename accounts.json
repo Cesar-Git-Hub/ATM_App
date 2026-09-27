@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Cesar",
+    "pin": "1234",
+    "balance": 500.0
+  },
+  {
+    "name": "Maria",
+    "pin": "5678",
+    "balance": 1000.0
+  }
+]
